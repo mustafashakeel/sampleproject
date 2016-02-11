@@ -1,0 +1,29 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "this is my grunt requirejs  and other javascript libraries sample project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://mustafashakeel@github.com/mustafashakeel/sampleproject.git"
+  },
+  "author": "mustafa Qureshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mustafashakeel/sampleproject/issues"
+  },
+  "homepage": "https://github.com/mustafashakeel/sampleproject#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-autoprefixer": "^3.0.3",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-csslint": "^0.5.0",
+    "grunt-contrib-cssmin": "^0.14.0",
+    "grunt-contrib-jshint": "^0.12.0",
+    "grunt-contrib-sass": "^0.9.2",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
