@@ -1,3 +1,4 @@
+
 module.exports = function(grunt){
 
 	grunt.initConfig({
@@ -48,8 +49,6 @@ module.exports = function(grunt){
 		    	tasks:['concat','jshint']
 		    }
 		}
-
-
 	});
 	grunt.loadNpmTasks('grunt-contrib-watch');
 	grunt.loadNpmTasks('grunt-contrib-jshint');
